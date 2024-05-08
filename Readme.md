@@ -16,11 +16,9 @@ The dataset includes labels for two potential subtasks (subtask1_label, subtask2
 
 **Some Images from Dataset:**
 
-![oswald-wijnen-blumenstrauss-einer-vase-auf-einem-marmortisch-1993z--thumb-xl.jpg](Untitled%20d4de7ed9479b41819739b638b67c648c/oswald-wijnen-blumenstrauss-einer-vase-auf-einem-marmortisch-1993z--thumb-xl.jpg)
-
-![1975-3-3.jpg](Untitled%20d4de7ed9479b41819739b638b67c648c/1975-3-3.jpg)
-
-![0110579.jpg](Untitled%20d4de7ed9479b41819739b638b67c648c/0110579.jpg)
+![henri-fantin-latour-blumenstillleben-herbstchrysanthemen-ein-2045--thumb-xl](https://github.com/sumsam-ali-sac/Musti-Problem/assets/93638623/8ea0856d-6590-4a22-b4cb-608c46cd0482)
+![marie-louise-von-motesiczky-stillleben-mit-fischen-2503--thumb-xl](https://github.com/sumsam-ali-sac/Musti-Problem/assets/93638623/7e196814-352a-47f8-9a20-94ea704a88a0)
+![claude-monet-das-mittagessen-sg170--thumb-xl](https://github.com/sumsam-ali-sac/Musti-Problem/assets/93638623/0f32588f-0c4e-47d2-9bb4-369148a7ac0a)
 
 ### Problem Overview
 
